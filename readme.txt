@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-Avada Child theme replaces Avada core search field with Product Search Field provided by WooCommerce Product Search extension, a search engine extension available exclusively at https://woocommerce.com/products/woocommerce-product-search/
+Avada Child WPS theme replaces Avada core search field with Product Search Field provided by WooCommerce Product Search extension, a search engine extension available exclusively at https://woocommerce.com/products/woocommerce-product-search/
 
 == Changelog ==
 
